@@ -2,7 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "ridha_watanabe",
 	"description": "Made as part of the FreeCodeCamp Backend course.",
-	"keywords": ["backend", "javascript", "web", "freecodecamp"],
+	"keywords": [
+		"backend",
+		"javascript",
+		"web",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
